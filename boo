@@ -1,4 +1,4 @@
-qeaegzcx/..jl
+qeaegzcx..jl
 alailai4224
 sudo apt-get remove docker docker-engine docker.io containerd runc
 
